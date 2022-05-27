@@ -8,5 +8,6 @@ package com.yh;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git");
+        System.out.println("master 写的代码");
     }
 }
