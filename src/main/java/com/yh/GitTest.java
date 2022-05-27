@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("master 写的代码");
         System.out.println("hhotfix ");
+        System.out.println(":master");
+        System.out.println("hotfix");
     }
 }
